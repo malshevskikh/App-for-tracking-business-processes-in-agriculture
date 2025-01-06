@@ -46,6 +46,8 @@ It is also convenient if at any time any employee can check the current state an
 <h3>Scheme of interaction of modules (in Russian):</h3>
 <img width="356" alt="screen1" src="https://github.com/user-attachments/assets/bbaac58a-fa21-45a6-8516-e7847087f835" />
 
+<h3>Business process of growing grain crops (in the methodology of IDEF0):</h3>
+<img width="1069" alt="screen3" src="https://github.com/user-attachments/assets/60d64774-93a9-404f-9784-a42178b3880c" />
 
 
 <!-- SCREENSHOTS -->
