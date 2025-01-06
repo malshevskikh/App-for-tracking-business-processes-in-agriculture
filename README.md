@@ -42,7 +42,7 @@ It is also convenient if at any time any employee can check the current state an
 </ul>
 
 <h3>Scheme of interaction of modules (in Russian):</h3>
-<img width="191" alt="image" src="https://github.com/user-attachments/assets/3dc1d45b-6f49-4e67-9182-0fdd81096f33" />
+<img width="356" alt="screen1" src="https://github.com/user-attachments/assets/bbaac58a-fa21-45a6-8516-e7847087f835" />
 
 
 <!-- SCREENSHOTS -->
