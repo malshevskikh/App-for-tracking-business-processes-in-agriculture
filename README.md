@@ -14,7 +14,7 @@
 
 <ol>
   <li><a href="#about-the-project">About The Project</a></li>
-  <li><a href="#component-diagram">Component Diagram</a></li>
+  <li><a href="#component-diagram">Structure of the project</a></li>
   <li><a href="#screenshots">Screenshots</a></li>
   <li><a href="#research-result">Research Result</a></li>
 </ol>
@@ -31,11 +31,14 @@ In this case, the blockchain is very well suited for this, because it is a distr
 It is also convenient if at any time any employee can check the current state and draw some conclusions, instead of frequently contacting co-workers who compile and rewrite management accounting. Accordingly, there is a need for accessibility and efficiency of access to data. A mobile application is the closest solution to the identified problem, since almost every person has a smartphone.
 </h4>
 
-<!-- COMPONENT DIAGRAM -->
-## Component Diagram
-<h3>In Russian</h3>
-
-<h3>In English</h3>
+<!-- STRUCTURE OF THE PROJECT -->
+## Structure of the project
+<h3>The application consists of:</h3>
+<ul>
+  <li>Blockchain network module</li>
+  <li>Smart contract module</li>
+  <li>Mobile application module</li>
+</ul>
 
 
 
