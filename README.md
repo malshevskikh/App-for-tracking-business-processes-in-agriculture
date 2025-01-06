@@ -46,12 +46,19 @@ It is also convenient if at any time any employee can check the current state an
 <h3>Scheme of interaction of modules (in Russian):</h3>
 <img width="356" alt="screen1" src="https://github.com/user-attachments/assets/bbaac58a-fa21-45a6-8516-e7847087f835" />
 
-<h3>Business process of growing grain crops (in the methodology of IDEF0):</h3>
+<h3>Business process of growing grain crops in the methodology of IDEF0 (in Russian):</h3>
 <img width="1069" alt="screen3" src="https://github.com/user-attachments/assets/60d64774-93a9-404f-9784-a42178b3880c" />
 
 
 <!-- SCREENSHOTS -->
 ## Screenshots
+<h3>Blockchain Network Window:</h3>
+<img width="970" alt="screen4" src="https://github.com/user-attachments/assets/0e478b19-6441-4908-bfc5-d086d47dec83" />
+<h3>Interface:</h3>
+<img width="370" alt="screen5" src="https://github.com/user-attachments/assets/c8820947-58f7-44d9-b4ca-ad28f2ceb8d3" />
+<img width="370" alt="screen6" src="https://github.com/user-attachments/assets/f0e54a8a-4f68-4613-b52c-40d4b890e831" />
+<img width="691" alt="screen7" src="https://github.com/user-attachments/assets/304c52e0-4d7e-4121-997b-9fca864b75a6" />
+
 
 
 <!-- RESEARCH RESULT -->
