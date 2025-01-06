@@ -16,7 +16,6 @@
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#component-diagram">Structure of the project</a></li>
   <li><a href="#screenshots">Screenshots</a></li>
-  <li><a href="#research-result">Research Result</a></li>
 </ol>
 
 <!-- ABOUT THE PROJECT -->
@@ -59,8 +58,4 @@ It is also convenient if at any time any employee can check the current state an
 <img width="370" alt="screen6" src="https://github.com/user-attachments/assets/f0e54a8a-4f68-4613-b52c-40d4b890e831" />
 <img width="691" alt="screen7" src="https://github.com/user-attachments/assets/304c52e0-4d7e-4121-997b-9fca864b75a6" />
 
-
-
-<!-- RESEARCH RESULT -->
-## Research Result
 
