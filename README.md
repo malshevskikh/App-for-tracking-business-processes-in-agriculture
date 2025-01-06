@@ -33,6 +33,7 @@ It is also convenient if at any time any employee can check the current state an
 
 <!-- STRUCTURE OF THE PROJECT -->
 ## Structure of the project
+
 <h3>The application consists of:</h3>
 <ul>
   <li>Blockchain network module</li>
@@ -40,6 +41,8 @@ It is also convenient if at any time any employee can check the current state an
   <li>Mobile application module</li>
 </ul>
 
+<h3>Scheme of interaction of modules (in Russian):</h3>
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/3dc1d45b-6f49-4e67-9182-0fdd81096f33" />
 
 
 <!-- SCREENSHOTS -->
