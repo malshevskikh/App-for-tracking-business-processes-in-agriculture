@@ -33,9 +33,6 @@
 
 <!-- SCREENSHOTS -->
 ## Screenshots
-<h3>Screenshot with an example of launching an expert system from the activator module</h3>
-<h3>Screenshot of web page with table about subsystems</h3>
-
 
 
 <!-- RESEARCH RESULT -->
